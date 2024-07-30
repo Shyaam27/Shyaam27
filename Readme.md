@@ -1,11 +1,4 @@
-<div align="center">
-  <a href="https://linkedin.com/in/shyaam-s" target="_blank"> 
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-<a href="https://x.com/shyaam_suresh" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
-</a>
-</div>
+
 
 ###
 
@@ -21,7 +14,14 @@
  <br>- 📚 I'm currently learning advanced React and Node.js.<br>- ⚡ In my free time I enjoy building personal projects, playing video games, and exploring new technology trends.</p>
 
 ###
-
+<div align="center">
+  <a href="https://linkedin.com/in/shyaam-s" target="_blank"> 
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+<a href="https://x.com/shyaam_suresh" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
+</a>
+</div>
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
