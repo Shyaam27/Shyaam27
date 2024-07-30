@@ -54,7 +54,7 @@
 
 ###
 
-<h3 align="left">📞 Contact</h3>
+<h3 align="left">📞 How to reach me</h3>
 
 ###
 
