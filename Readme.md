@@ -67,7 +67,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
 </div>
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/shyaam_s?theme=light&font=M%20PLUS%201)
 
 ###
 
