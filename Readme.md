@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I'm Shyaam <br> <br>- 📚 I'm currently learning advanced React and Node.js.<br>- ⚡ In my free time I enjoy building personal projects, playing video games, and exploring new technology trends.</p>
+<p align="left">I'm Shyaam<br> - 🔭 Here's my [portfolio](https://shyaam-27.netlify.app/)<br> <br>- 📚 I'm currently learning advanced React and Node.js.<br>- ⚡ In my free time I enjoy building personal projects, playing video games, and exploring new technology trends.</p>
 
 ###
 
